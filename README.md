@@ -25,14 +25,23 @@ It wrote the code, ran away, and now the game is unplayable.
 
 ## 📝 Document Your Experience
 
-- [ ] Describe the game's purpose.
-- [ ] Detail which bugs you found.
-- [ ] Explain what fixes you applied.
+- [X] Describe the game's purpose.
+The games purpose is to provide a great experience for those wanting to test their guessing skills.
+- [X] Detail which bugs you found.
+1. Guessing Logic was flawed
+2. The streamlit reruns was not producing the exact functionality of the game
+3. The secret score not updating when changing difficulites.
+- [X] Explain what fixes you applied.
+1. Guessing Logic was flawed - fixed by changing the logic of how it detects correct and incorrect guesses.
+2. The streamlit reruns was not producing the exact functionality of the game - fixed by changing structure of the flow within the app.
+3. The secret score not updating when changing difficulites. - fixed by changing logic when button gets clicked to change from easy, medium, and hard
 
 ## 📸 Demo
 
-- [ ] [Insert a screenshot of your fixed, winning game here]
+- [X] [Insert a screenshot of your fixed, winning game here]
+![Demo of App](app.png)
 
 ## 🚀 Stretch Features
 
 - [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+![Challenge 1 - Advanced Edge Case Testing](challenge1.png)
