@@ -43,5 +43,5 @@ The games purpose is to provide a great experience for those wanting to test the
 
 ## 🚀 Stretch Features
 
-- [ ] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
+- [X] [If you choose to complete Challenge 4, insert a screenshot of your Enhanced Game UI here]
 ![Challenge 1 - Advanced Edge Case Testing](challenge1.png)
